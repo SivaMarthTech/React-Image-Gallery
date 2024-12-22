@@ -48,10 +48,4 @@ You can easily modify the images, titles, and descriptions by editing the import
 ## Screenrecord:
 Provide some screenrecord here
 
-
 https://github.com/user-attachments/assets/19cd9a18-b888-4845-91d4-7976487de9fc
-
-
-
-https://github.com/user-attachments/assets/7a910f12-058e-4275-b3b9-27bda962b9a0
-
